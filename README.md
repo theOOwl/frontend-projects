@@ -1,2 +1,2 @@
-# frontend-projects
+# frontend projects
 keen to learn
