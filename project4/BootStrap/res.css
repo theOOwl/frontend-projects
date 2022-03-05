@@ -1,0 +1,39 @@
+#body{
+    background-color:wheat
+}
+#maindiv{
+    border-style: solid;
+    border-color: wheat;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 1300px;
+}
+.uppercontainers{
+    height: 460px;
+
+}
+.downcontainer{
+    height: 550px;
+}
+.divcontainer{
+    height: 330px;
+    width: 25%;
+}
+.p{
+    float:right;
+}
+.badgee{
+    margin-left: 15px;
+    margin-top: 10px;
+    color:black
+}
+#projecth2{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+#buttton{
+    margin-top: 10px;
+    float:right;
+    margin-right: 12px;
+}
