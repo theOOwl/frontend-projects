@@ -154,3 +154,13 @@ footer {
     text-align: center;
     height: 5em;
 }
+@media (max-width: 768px) {
+    header #branding,
+    header nav,
+    header nav li,
+    #div1,
+    #div2 {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
