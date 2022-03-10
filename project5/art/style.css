@@ -1,0 +1,75 @@
+.body{
+    background-color: #f7cb1d;
+}
+.textdecoration{
+    text-decoration: none;
+    color: #030e12;
+}
+.navsub:hover{
+    color: #fcde67;
+    background-color:#1fa0cf;
+    border-radius: 10%;
+    font-size: 103%;
+}
+#Subscribe:hover{
+    color: #030e12;
+    background-color:#1fa0cf;
+    border-radius: 10%;
+    font-size: 103%;
+}
+#large{
+    font-size:xx-large;
+    font-weight: bold;
+}
+#large:hover{
+    background-color: #f7cb1d;
+    color: #030e12;
+    font-size: 203%;
+    border-radius: 2%;
+}
+.iconcolor{
+    background-color: #f7cb1d;
+}
+.stickybutton{
+    background-color: #fcde67;
+    color: #030e12;
+    text-decoration: none;
+}
+.stickybutton:hover{
+    background-color: #f7cb1d;
+    font-weight: bolder;
+}
+.footerdiv{
+padding: 2.5rem 0;
+color:#030e12;
+text-align: center;
+background-color: #5bccf6;
+border-top: .05rem solid #e5e5e5;
+margin-bottom: 0%;
+border-radius: 1%;
+}
+#sticky{
+    border-radius: 1%;
+    background-color:#030e12 ;
+}
+#stickyHead{
+    background-color:#5bccf6 !important ;
+    border-radius: 1%;
+}
+.textpart{
+    background-color: #fcde67 !important;
+    border-radius: 1%;
+    padding-bottom: 10px;
+    border-color:#fcde67 ;
+}
+#containers{
+    background-color:#5bccf6 ;
+    border-radius: 2%;
+}
+#firstdiv{
+    background-color:#030e12 !important;
+    border-radius: 1%;
+}
+.headofsticky{
+    color: #f7cb1d;
+}
